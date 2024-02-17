@@ -1,8 +1,8 @@
 # Rock Paper Scissors
 
 This script sets up a simple Rock Paper Scissors game that can be played in the browser's console
-It prompts the user for their choice and plays a rounf against the computer
-It keeps track of scores for a total of 5 rounds and it will finally declares the winner based on the scores
+* It prompts the user for their choice and plays a rounf against the computer
+* It keeps track of scores for a total of 5 rounds and it will finally declares the winner based on the scores
 
 # Step by step 
 **Step 1**: The game is going to play against the computer, so we begin with a fuction called getComputerChoice() that will randomly return either 'Rock', 'Paper' or 'Scissors'
